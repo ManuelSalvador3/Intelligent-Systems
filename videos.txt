@@ -1,0 +1,7 @@
+All de videos are public.
+
+Test video 1: https://www.youtube.com/watch?v=Ijxi1Wu4Sxk&ab_channel=ManuSalvador
+
+Test video 2 "STOPS": https://www.youtube.com/watch?v=cURbQziUlF8&t=3s&ab_channel=ManuSalvador
+
+Final test video: https://www.youtube.com/watch?v=mpUz1ux69iY&ab_channel=ManuSalvador
